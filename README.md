@@ -11,10 +11,16 @@ This project is the client module that interacts with an HTTP server. It is enab
 
 ## Run Locally
 
+Clone the project
+
+```bash
+  git clone https://github.com/tanasak32123/Band_Protocol_Problem3.git
+```
+
 Go to the project directory
 
 ```bash
-  cd <project_name>
+  cd Band_Protocol_Problem3
 ```
 
 Install dependencies
@@ -28,7 +34,6 @@ Start the server
 ```bash
   npm run dev
 ```
-
 
 ## Environment Variables
 
